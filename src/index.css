@@ -1,0 +1,9 @@
+.container{
+  width: 500px;
+  height: 250px;
+  background-color: rgb(66, 154, 212);
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  
+}
